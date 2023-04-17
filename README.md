@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1!+Me+chamo+Leonardo+Calheiros%2C+)](https://git.io/typing-svg)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leocalheiros)](https://github.com/leocalheiros/github-readme-stats)
 
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=leocalheiros&theme=gotham)
 
