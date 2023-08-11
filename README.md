@@ -32,6 +32,7 @@
   
 ### Estudando no momento:
 ![Django](https://img.shields.io/badge/django-grey?style=for-the-badge&logo=django)&nbsp;
+![Flask](https://img.shields.io/badge/flask-grey?style=for-the-badge&logo=django)&nbsp;
 
 
 
