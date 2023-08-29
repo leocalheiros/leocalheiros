@@ -21,14 +21,15 @@
 
 ### Ferramentas:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-<!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; 
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+
 
 ### Outros conhecimentos:
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+![DynamoDB](https://camo.githubusercontent.com/fa3832fa482510513ba62d9971eb7b30c0bf94d7f5fa580372c45dd89940dbba/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d416d617a6f6e2b44796e616d6f444226636f6c6f723d343035334436266c6f676f3d416d617a6f6e2b44796e616d6f4442266c6f676f436f6c6f723d464646464646266c6162656c3d)&nbsp;
+![AWS](https://camo.githubusercontent.com/80d308b575eba9b5e7c5743493566354071b3b2324f406d6998eb498207415c3/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d416d617a6f6e2b41575326636f6c6f723d323332463345266c6f676f3d416d617a6f6e2b415753266c6f676f436f6c6f723d464646464646266c6162656c3d)&nbsp;
   
 ### Estudando no momento:
 ![Django](https://img.shields.io/badge/django-grey?style=for-the-badge&logo=django)&nbsp;
