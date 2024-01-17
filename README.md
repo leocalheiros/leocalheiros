@@ -19,6 +19,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/python-grey?style=for-the-badge&logo=python)&nbsp;
 ![Flask](https://img.shields.io/badge/flask-grey?style=for-the-badge&logo=flask)&nbsp;
+![Java](https://img.shields.io/badge/java-grey?style=for-the-badge&logo=java)&nbsp;
+![Spring Boot](https://img.shields.io/badge/springboot-grey?style=for-the-badge&logo=springboot)&nbsp;
 
 
 ### Outros conhecimentos:
@@ -26,8 +28,6 @@
 ![Docker](https://img.shields.io/badge/docker-grey?style=for-the-badge&logo=docker)&nbsp;
   
 ### Estudando no momento:
-![Java](https://img.shields.io/badge/java-grey?style=for-the-badge&logo=java)&nbsp;
-![Spring Boot](https://img.shields.io/badge/springboot-grey?style=for-the-badge&logo=springboot)&nbsp;
 ![React](https://img.shields.io/badge/react-grey?style=for-the-badge&logo=react)&nbsp;
 
 
