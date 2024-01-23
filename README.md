@@ -13,22 +13,24 @@
   
 
 ### Main skills:
-  ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/python-grey?style=for-the-badge&logo=python)&nbsp;
-![Flask](https://img.shields.io/badge/flask-grey?style=for-the-badge&logo=flask)&nbsp;
-![Java](https://img.shields.io/badge/java-grey?style=for-the-badge&logo=java)&nbsp;
-![Spring Boot](https://img.shields.io/badge/springboot-grey?style=for-the-badge&logo=springboot)&nbsp;
-
-
-### Outros conhecimentos:
-![AWS](https://img.shields.io/badge/aws-grey?style=for-the-badge&logo=aws)&nbsp;
+![TAILWIND CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+![Typescript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Next.js](https://img.shields.io/badge/nextjs-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/docker-grey?style=for-the-badge&logo=docker)&nbsp;
-  
-### Estudando no momento:
-![React](https://img.shields.io/badge/react-grey?style=for-the-badge&logo=react)&nbsp;
+
+
+
+### Others:
+![AWS](https://img.shields.io/badge/aws-grey?style=for-the-badge&logo=aws)&nbsp;
+
 
 
 
