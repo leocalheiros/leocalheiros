@@ -29,7 +29,7 @@
 
 
 ### Others:
-![AWS](https://img.shields.io/badge/aws-grey?style=for-the-badge&logo=aws)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
 
 
 
